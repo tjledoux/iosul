@@ -4,7 +4,7 @@
 		"details": [
 			{
 				"appID": "2B7DY376WV.com.tlapps.ul",
-				"paths": [ "beaglebone", "/rasp*", "/ardu" ]
+				"paths": [ "beaglebone", "/rasp*", "/ardu", "/login/clever*", "/login/sso*" ]
 			}
 		]
 	}
