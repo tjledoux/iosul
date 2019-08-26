@@ -3,8 +3,8 @@
 		"apps": [],
 		"details": [
 			{
-				"appID": "2B7DY376WV.com.tlapps.ul",
-				"paths": [ "beaglebone", "/rasp*", "/ardu", "/login/clever*", "/login/sso*" ]
+ 				"appID": "V9NM997ELN.com.i-ready.ireadyapp",
+				"paths": [ "/login/clever*", "/login/sso*" ]
 			}
 		]
 	}
